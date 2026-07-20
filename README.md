@@ -27,5 +27,5 @@ A simple data analytics project that parses raw Health App logs, cleans inconsis
 ### Step Count Over Time
 ![Step Count](images/step_count.png)
 
-### Calories Over Time
-![Calories](images/calories.png)
+### Heatmap Over Time
+![Heatmap](images/correlation_heatmap.png)
